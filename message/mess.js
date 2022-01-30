@@ -3,7 +3,7 @@ module.exports.mess = {
 	        ban: 'Maaf nomor kamu sudah terbanned, Silahkan hubungi owner❗',
 			success: 'Selesai...',
 			limit: `Limit kamu sudah habis silahkan kirim .limit untuk mengecek limit`,
-			wrongFormat: 'Format salah, coba liat lagi di menu',
+			wrongFormat: 'Format salah, coba liat lagi di menu v:',
 			error: {
 				api: 'Maaf, seperti terjadi kesalahan',
 				stick: 'Itu bukan stiker kak... Hadeeh',
