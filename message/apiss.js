@@ -1,6 +1,6 @@
 
 {
-  botname = "DEFFBOTZ"
+  botname = "BOT ツˣᴿᶻズガx"
 
 
   exports.help = (prefix) => {
@@ -118,11 +118,11 @@ Apabila Melewati Jam Aktif, Maka Akan Di Proses Di Hari Berikutnya
 [14.05, 20/12/2021] Apiss Store: 💰 PAYMENT  💰
 
 💳 DANA
-Nomor : 081295909383
+Nomor : 
 A / n : DISAH
 
 💳 GOPAY
-Nomor : 081295909383
+Nomor : 
 A / n : apis store
 
 💳 OVO (LIMIT) 
@@ -140,11 +140,11 @@ return `
 💰 PAYMENT  💰
 
 💳 DANA
-Nomor : 081295909383
+Nomor : 
 A / n : DISAH
 
 💳 GOPAY
-Nomor : 081295909383
+Nomor : 
 A / n : apis store
 
 💳 OVO (LIMIT) 
